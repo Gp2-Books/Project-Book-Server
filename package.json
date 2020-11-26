@@ -1,0 +1,25 @@
+{
+  "name": "Project-Book-Server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gp2-Books/Project-Book-Server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gp2-Books/Project-Book-Server/issues"
+  },
+  "homepage": "https://github.com/Gp2-Books/Project-Book-Server#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.5.1",
+    "sequelize": "^6.3.5"
+  }
+}
