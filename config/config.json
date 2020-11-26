@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "postgres",
-    "password": null,
-    "database": "database_development",
+    "password": "",
+    "database": "group-project",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
